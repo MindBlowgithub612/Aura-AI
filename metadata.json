@@ -1,0 +1,7 @@
+{
+  "description": "A powerful, multimodal AI chatbot built from scratch capable of text conversation, image understanding, and video generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "name": "App"
+}
